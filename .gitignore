@@ -1,2 +1,5 @@
 ## venv dir
 venv
+
+## Mac os files
+.DS_Store
